@@ -1,0 +1,26 @@
+Order of operation for application:
+
+1. Create a html file for the webpage, css for design, and javascript for functionality.
+TIP: Get the webapp working locally using a ide such as brackets to see live site before staring Django part.
+- Remember when implementing the google maps part you need the api key which you can get from https://developers.google.com/maps/documentation/javascript/get-api-key
+
+2. Create a Django app with the existing working app above.
+TIP: You can follow this tutorial I found on youtube (https://www.youtube.com/playlist?list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd)
+- Make sure all Python and Django versions are up to date.
+- (Urls.py is different in Django 1.10)
+
+3. Create the heroku app once you can locally deploy with Django
+Basically you will need to create 3 main files.
+- /requirements.txt
+- /runtime.txt
+- /Procfile
+Here are some good guides:
+-https://devcenter.heroku.com/articles/deploying-python
+-https://devcenter.heroku.com/articles/django-app-configuration
+-https://simpleisbetterthancomplex.com/tutorial/2016/08/09/how-to-deploy-django-applications-on-heroku.html
+
+
+Problems I ran into:
+-Django App not working and giving me import errors.
+  -Fix: Check the wgsi file and make sure all dependencies are also installed.
+-Heroku app was not deploying. Forgot to install whitenoise and caused a error. Errors will prevent you from deploying. 

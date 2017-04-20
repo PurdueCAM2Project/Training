@@ -1,0 +1,16 @@
+
+html, 
+body{
+    font-family: "Courier New", Courier, monospace;
+}
+.clockS{
+    font-size : 125px;
+    margin: 0 auto;
+    padding: 10px;
+    color: #000000;
+    text-align: center;
+}
+#map {
+    height: 450px;
+    width: 100%;
+}
