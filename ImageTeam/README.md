@@ -32,5 +32,5 @@ This attempts to go deeper into last weeks material, and build up to more compli
 
 This week we will go implement a deep learning model on your computer, preferrably in Caffe. If you want to implement Faster-RCNN in MATLAB, I can only try to help you.
 
-- Faster-RCNN (FRCNN) [pdf](https://arxiv.org/abs/1506.01497)[github](https://github.com/rbgirshick/py-faster-rcnn)
-- Single Shot Detector (SSD) [pdf](https://arxiv.org/abs/1512.02325)[github](https://github.com/weiliu89/caffe/tree/ssd)
+- Faster-RCNN (FRCNN) \[[pdf](https://arxiv.org/abs/1506.01497)\]\[[github](https://github.com/rbgirshick/py-faster-rcnn)\]
+- Single Shot Detector (SSD) \[[pdf](https://arxiv.org/abs/1512.02325)\]\[[github](https://github.com/weiliu89/caffe/tree/ssd)\]
