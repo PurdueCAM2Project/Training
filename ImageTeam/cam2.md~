@@ -1,6 +1,6 @@
 # Purdue CAM2: Image Team Training, Week 4
 
-## Overview
+### Overview
 
 This week we will go implement a deep learning model on your computer, preferrably in Caffe. If you want to implement Faster-RCNN in MATLAB, I can only try to help you.
 
@@ -13,7 +13,7 @@ For FRCNN I will provide you a set of weights trained on COCO, PASCAL VOC, but f
 
 For SSD, the weights are made available at the github page. [I've linked the ILSVRC trainval1 weights here](https://drive.google.com/open?id=0BzKzrI_SkD1_a2NKQ2d1d043VXM) :smile:
 
-## Tasks
+### Tasks
 
 1. Get training started for your model. No need to converge. Please send me a screen-shot of the model training.
 
@@ -25,7 +25,7 @@ For SSD, the weights are made available at the github page. [I've linked the ILS
 
    Remember to ignore output for classes that don't exist in the dataset.
 
-## To Submit:
+### To Submit:
 - Screenshot of training
 - PASCAL VOC 2012
     1. mAP
