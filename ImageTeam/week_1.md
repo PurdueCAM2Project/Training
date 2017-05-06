@@ -7,6 +7,36 @@ The estimated work-load for this week is 5 hours. We will be programming Linear 
 - [Andrew Ng at Coursera](https://www.coursera.org/learn/machine-learning/home/welcome)
 - [Nando de Freitas at Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 
+## Tasks
+
+- Complete all assignments in the video summary
+- At a minimum, be sure to install Torch7 and Caffe
+
+Answer the following questions:
+1. asdf
+2. asdf
+3. asdf
+
+## To Submit
+
+- Screenshot of complete quizzes from Coursera
+- Screenshot of Torch7 command line (include your username in the screenshot)
+- Screenshot of successfully importing Caffe
+
+```
+<username>@<computer-name>$ python
+Python 3.5.2 (default, Nov 17 2016, 17:05:23) 
+[GCC 5.4.0 20160609] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import caffe
+>>> print("It was successful since there is no error :D")
+It was successful since there is no error :D
+>>> 
+```
+
+
+# Video Summary 
+
 ## Andrew Ng, Coursera
 
 Complete the videos/quizzes:
@@ -27,7 +57,7 @@ Complete:
 - Lecture [2](https://www.youtube.com/watch?v=DHspIG64CVM) and [3](https://www.youtube.com/watch?v=kPrHqQzCkg0)
 - [Set-up LuaJIT/Torch7 Enviornment.](https://github.com/oxford-cs-ml-2015/practical1) No submission required.
 - (Optional)[Linear Model in Torch7](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/practicals/practical2.pdf). Please send me your code if you do complete it.
-
+- (Optional)Linear Model in Caffe. Please send me your code if you do complete it.
 
 
 My estimate is about 3 hours of work for this section. It is important that you finish the Torch7 model, since next week's coding assignment will build off of understanding basic syntax.
