@@ -14,3 +14,6 @@ consider to have a virtual Linux so that everything is contained in the virtual 
 and install new software packages without affecting your native Linux.
 
 
+** Learn github ***
+
+Your contributions to the project will be mostly recorded by github. Please watch [training video](https://www.youtube.com/playlist?list=PL_DUEaCnbkZCI8IMXYVhYGupSHjPVBY1i).
