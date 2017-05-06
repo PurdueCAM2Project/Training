@@ -13,12 +13,13 @@ The estimated work-load for this week is 5 hours. We will be programming Linear 
 - At a minimum, be sure to install Torch7 and Caffe
 
 Answer the following questions:
-1. asdf
-2. asdf
-3. asdf
+1. Give an example of a linear relationship
+2. What's an outlier? What is the relationship to likelihood estimation and outliers? What's one simple change to MLE to make it more robust?
+3. What is the Kullback-Leibler divergence and how do we minimize it?
 
 ## To Submit
 
+- PDF of answers to the questions
 - Screenshot of complete quizzes from Coursera
 - Screenshot of Torch7 command line (include your username in the screenshot)
 - Screenshot of successfully importing Caffe
