@@ -17,3 +17,7 @@ and install new software packages without affecting your native Linux.
 **Learn github**
 
 Your contributions to the project will be mostly recorded by github. Please watch [training video](https://www.youtube.com/playlist?list=PL_DUEaCnbkZCI8IMXYVhYGupSHjPVBY1i).
+
+**Understand the Purpose of the Project**
+
+Please read [Making of CAM2](https://engineering.purdue.edu/HELPS/Publications/papers/GlobalSIP2015.pdf) and understand the purpose of the project.
