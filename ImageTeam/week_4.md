@@ -11,26 +11,24 @@ For FRCNN I will provide you a set of weights trained on COCO, PASCAL VOC, but f
 
 For SSD, the weights are made available at the github page. [I've linked the ILSVRC trainval1 weights here](https://drive.google.com/open?id=0BzKzrI_SkD1_a2NKQ2d1d043VXM) :smile:
 
-Get training started for your model. No need to converge. Please send me a screen-shot of the model training.
+### Tasks
 
-For the PASCAL VOC 2012 training-set and the CAM2 dataset:
-- report the mAP of your model
-- visualize 10 detected images
+1. Get training started for your model. No need to converge. Please send me a screen-shot of the model training.
 
-For the PASCAL VOC 2012 dataset, also plot the AP plots for each class with (a) not threshold and (b) a threshold at confidence of 0.5 or greater.
+2. For the PASCAL VOC 2012 training-set and the CAM2 dataset:
+   - report the mAP of your model
+   - visualize 10 detected images
 
-Remember to ignore output for classes that don't exist in the dataset.
+   For the PASCAL VOC 2012 dataset, also plot the AP plots for each class with (a) not threshold and (b) a threshold at confidence of 0.5 or greater.
 
-**To Submit:**
-1. Screenshot of training
-2. PASCAL VOC 2012
-  1. mAP
-  2. 10 detected images
-  3. AP plots for each class
-    1. no threshold
-    2. threshold at confidence 0.5
-3. CAM2
-  1. mAP
-  1. 10 detected images
+   Remember to ignore output for classes that don't exist in the dataset.
 
-
+### To Submit:
+- Screenshot of training
+- PASCAL VOC 2012
+    1. mAP
+    2. 10 detected images
+    3. AP Plots
+- CAM2
+    1. mAP
+    2. 10 detected images
