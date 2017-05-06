@@ -3,32 +3,29 @@
 This folder contains training information for new members joining the CAM2 Image Team. The goal is to focus on generic topics for general machine learning. Then we will dive in to topcis aimed at our current research.
 
 
-**Week 1:**
+## Week 1:
 
 This attempts to cover fundamental topics which are generic to all machine learning disciplines.
 
 The concept goals are:
 
 - Linear Regression
-- Training v.s. Testing Data
 - Install Torch7
-- Prepare MATLAB set-up
-- Model Bias v.s. Variance
-- Regularization
+- Install Caffe
 
 The programming goals are:
 
-- Linear Regression in Torch7
+- (Optional) Linear Regression in Torch7 & Caffe
 
-**Week 2:**
-
-This attempts to go deeper into last weeks material, and build up to more complicated models.
-
-**Week 3:**
+## Week 2:
 
 This attempts to go deeper into last weeks material, and build up to more complicated models.
 
-**Week 4:**
+## Week 3:
+
+This attempts to go deeper into last weeks material, and build up to more complicated models.
+
+## Week 4:
 
 This week we will go implement a deep learning model on your computer, preferrably in Caffe. If you want to implement Faster-RCNN in MATLAB, I can only try to help you.
 
