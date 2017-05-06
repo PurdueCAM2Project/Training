@@ -4,8 +4,8 @@ This week we will go implement a deep learning model on your computer, preferrab
 
 We want to know how to use deep learning models, and how to use them for our specific task of identifying people.
 
-- Faster-RCNN (FRCNN) [pdf](https://arxiv.org/abs/1506.01497)[github](https://github.com/rbgirshick/py-faster-rcnn)
-- Single Shot Detector (SSD) [pdf](https://arxiv.org/abs/1512.02325)[github](https://github.com/weiliu89/caffe/tree/ssd)
+- Faster-RCNN (FRCNN) \[[pdf](https://arxiv.org/abs/1506.01497)\]\[[github](https://github.com/rbgirshick/py-faster-rcnn)\]
+- Single Shot Detector (SSD) \[[pdf](https://arxiv.org/abs/1512.02325)\]\[[github](https://github.com/weiliu89/caffe/tree/ssd)\]
 
 For FRCNN I will provide you a set of weights trained on COCO, PASCAL VOC, but fine-tuned on ImageNet. This means the "head" of model will output 200 classes.
 
