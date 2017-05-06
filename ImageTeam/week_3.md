@@ -1,0 +1,3 @@
+# Purdue CAM2: Image Team Training, Week 3
+
+coming soon...
