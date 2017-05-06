@@ -1,5 +1,7 @@
 # Purdue CAM2: Image Team Training, Week 4
 
+### Overview
+
 This week we will go implement a deep learning model on your computer, preferrably in Caffe. If you want to implement Faster-RCNN in MATLAB, I can only try to help you.
 
 We want to know how to use deep learning models, and how to use them for our specific task of identifying people.
