@@ -28,6 +28,8 @@ python archiveList.py my_100_cameras.txt 480 120
 - Install mysql ``` sudo apt-get install mysql-server ```
 - TODO: create username, password, and load in the cam2 db
 
+
+
 ## Python Files
 
 - camera.py: contains functions imported into archiver.py
