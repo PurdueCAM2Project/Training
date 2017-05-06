@@ -7,7 +7,7 @@ This week will cover logistic regression, model selection, and an introduction i
 ## Tasks
 
 - Selected video lectures
-- Download 5 image from 200 different cameras in the CAM2 dataset. Wait 2 minutes between each captured frame, e.g. the 5 images will take 8 minutes to collect.
+- Download 5 image from 100 different cameras in the CAM2 dataset. Wait 2 minutes between each captured frame, e.g. the 5 images will take 8 minutes to collect.
 
 Answer the following questions:
   1. What is the sigmoid function? What is the advantage of the function's range?
@@ -20,6 +20,6 @@ Answer the following questions:
 ## To Submit
 
 - Answers to questions
-- Upload 1000 images into the google drive
+- Upload 500 images into the google drive
 - Logisitc Regression for MNIST data in Torch7
 - Logisitc Regression for MNIST data in Caffe

@@ -19,11 +19,33 @@ The programming goals are:
 
 ## Week 2:
 
-This attempts to go deeper into last weeks material, and build up to more complicated models.
+This week will cover logistic regression, model selection, and optimization. We will also learn to "grab" data using the "archiver.py" file.
+
+The concept goals are:
+
+- Logisitic Regression
+- Model Selection
+- Stochastic Gradient Descent (online v.s. batch learning)
+
+The programming goals are:
+
+- Logisitc Regression in Torch7 & Caffe
+- Upload 500 Images of new CAM2 data
 
 ## Week 3:
 
-This attempts to go deeper into last weeks material, and build up to more complicated models.
+This week will cover neural networks and convolutional neural networks. We will also learn to label the data you gathered.
+
+The concept goals are:
+
+- Neural Networks
+- Convolution
+- Labeling Standard
+
+The programming goals are:
+
+- Neural Network in Torch7 & Caffe
+- Upload (at least) 30 Labeled Images
 
 ## Week 4:
 
