@@ -7,7 +7,7 @@ The estimated work-load for this week is 5 hours. We will be programming Linear 
 - [Andrew Ng at Coursera](https://www.coursera.org/learn/machine-learning/home/welcome)
 - [Nando de Freitas at Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 
-### Andrew Ng, Coursera
+## Andrew Ng, Coursera
 
 Complete the videos/quizzes:
 
@@ -20,7 +20,7 @@ Complete the videos/quizzes:
 
 There are esimated times for each section provided by Coursera, but I would guess they will not take that long. My estimate is at about 2 hours of work.
 
-### Nando de Freitas, Oxford
+## Nando de Freitas, Oxford
 
 Complete:
 
