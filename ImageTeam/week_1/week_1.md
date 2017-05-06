@@ -22,7 +22,7 @@ Answer the following questions:
 - PDF of answers to the questions
 - Screenshot of complete quizzes from Coursera
 - Screenshot of Torch7 command line (include your username in the screenshot)
-- Screenshot of successfully importing Caffe
+- Screenshot of successfully importing Caffe (see below)
 
 ```
 <username>@<computer-name>$ python
