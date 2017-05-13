@@ -1,7 +1,10 @@
 # Purdue CAM2: Image Team Training, Summary
 
-This folder contains training information for new members joining the CAM2 Image Team. The goal is to focus on generic topics for general machine learning. Then we will dive in to topcis aimed at our current research.
+This folder contains training information for new members joining the CAM2 Image Team. The goal is to focus on generic topics for general machine learning. Then we will dive in to topics aimed at our current research.
 
+## Non-Image Team Members:
+
+If you are not a member of the image team, you only need to complete the assignments listed in "cam2.md". If you are a CAM2 Image Team member, please complete the "cam2.md" file along with the rest of the material in this repository's folder.
 
 ## Week 1:
 
