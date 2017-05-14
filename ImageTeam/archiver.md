@@ -23,10 +23,39 @@ For example, if you wanted to collect 5 images from 100 cameras with a 2 minute 
 python archiveList.py my_100_cameras.txt 480 120
 ```
 
+Where the head of my_100_cameras.txt with the format `<camera id> <is video>` is:
+
+```
+>$ head my_100_cameras.txt
+1 1
+2 1
+3 1
+4 1
+5 1
+6 1
+7 1
+8 1
+9 1
+10 1
+```
+
 ## MySQL
 
 - Install mysql ``` sudo apt-get install mysql-server ```
-- TODO: create username, password, and load in the cam2 db
+- TODO: create username, password, and load in the cam2 db. Today is 5/13, I will try to add more details by 5/15. However, if details are not here I recommend googling! We need to import the cam2 database into mysql. Note we recommend a **blank** password.
+- Once mysql has a database (i.e. "cam2"), edit the "archiver.py" file to:
+
+```
+# The path of the results directory.
+RESULTS_PATH = '<results directory>'
+
+# The server database credentials.
+DB_SERVER = 'localhost' #<-- probably still localhost
+DB_USER_NAME = '<username in mysql>' 
+DB_PASSWORD = '<password>' #<-- if no password leave blank
+DB_NAME = '<database name>' #<-- for example, "cam2"
+```
+
 
 ## Python Files
 
