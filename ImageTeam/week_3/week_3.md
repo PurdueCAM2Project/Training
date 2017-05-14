@@ -10,6 +10,8 @@ If you are stuck on any of the material, please email me at gauenk@purdue.edu wi
 
 - Install [labelImg](https://github.com/tzutalin/labelImg)
 - Label 30 CAM2 Images from the 500 you gathered.
+- Neural Network in Torch7 and Caffe
+- Selected Videos
 
 Answer the following questions:
 
@@ -17,7 +19,7 @@ Answer the following questions:
 2. What is the quality of your cameras?
 3. What camera ID's do you have in your folder?
 4. How small is the tiniest person in the image? (provide screenshot and size in number of pixels wide/tall)
-5. What is a vanishing gradient?
+5. What is a vanishing gradient? 
 6. Given the following model, write out the parial derivative chain required for the partial below. The model is given by: -> Linear Layers -> Log Softmax Layer -> Negative Log Likelihood
 
 ![partial](http://www.sciweavers.org/tex2img.php?eq=%5Cfrac%7B%5Cpartial%20C%7D%7B%5CTheta_%7B1%7D%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0.png)
@@ -50,7 +52,6 @@ There are esimated times for each section provided by Coursera, but I would gues
 
 Complete:
 
-- Lecture [4](https://www.youtube.com/watch?v=VR0W_PNwLGw) and [3](https://www.youtube.com/watch?v=kPrHqQzCkg0)
-- Lecture [5](https://www.youtube.com/watch?v=qz9bKfOqd0Y)
-- Lecture [7](https://www.youtube.com/watch?v=FYgsztDxSvE)
-- [Logistic Regression in Torch7](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/practicals/practical3.pdf). We are only interested in the practical3.lua file, and the basics such as forward/backward, feval functions, creating a model, etc. We are not concerned with optimization details. With respect to optimization: we will use what works, and SGD works well often. No need to dive in deep with AdaGrad, AdaMax, etc. Just know that smart people work hard to find good optimization techniques.
+- Lecture [8](https://www.youtube.com/watch?v=-YRB0eFxeQA)
+- Lecture [9](https://www.youtube.com/watch?v=NUKp0c4xb8w)
+- Lecture [10](https://www.youtube.com/watch?v=bEUX_56Lojc)
