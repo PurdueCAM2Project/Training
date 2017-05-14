@@ -18,7 +18,7 @@ Answer the following questions:
 3. What camera ID's do you have in your folder?
 4. How small is the tiniest person in the image? (provide screenshot and size in number of pixels wide/tall)
 5. What is a vanishing gradient?
-6. Given the following model, write out the parial derivative chain required for $$\frac{\partial C}{Theta_{1}}$$:
+6. Given the following model, write out the parial derivative chain required for $$ \frac{\partial C}{Theta_{1}} $$:
    The model is given by:
    -> Linear Layers -> Log Softmax Layer -> Negative Log Likelihood
 
