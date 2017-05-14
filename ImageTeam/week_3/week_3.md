@@ -18,10 +18,10 @@ Answer the following questions:
 3. What camera ID's do you have in your folder?
 4. How small is the tiniest person in the image? (provide screenshot and size in number of pixels wide/tall)
 5. What is a vanishing gradient?
-6. Given the following model, write out the parial derivative chain required for
+6. Given the following model, write out the parial derivative chain required for the partial below. The model is given by: -> Linear Layers -> Log Softmax Layer -> Negative Log Likelihood
+
    ![partial](http://www.sciweavers.org/tex2img.php?eq=%5Cfrac%7B%5Cpartial%20C%7D%7B%5CTheta_%7B1%7D%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0.png)
-   The model is given by:
-   -> Linear Layers -> Log Softmax Layer -> Negative Log Likelihood
+
 
 ## To Submit
 
