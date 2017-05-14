@@ -12,6 +12,7 @@ If you are stuck on any of the material, please email me at gauenk@purdue.edu wi
 
 - Selected video lectures
 - Download 5 image from 100 different cameras in the CAM2 dataset. Wait 2 minutes between each captured frame, e.g. the 5 images will take 8 minutes to collect.
+- Logisitic Regression in Torch7 & Caffe
 
 Answer the following questions:
   1. What is the sigmoid function? What is the advantage of the function's range?
