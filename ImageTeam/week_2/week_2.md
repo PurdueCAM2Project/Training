@@ -48,4 +48,4 @@ Complete:
 - Lecture [4](https://www.youtube.com/watch?v=VR0W_PNwLGw) and [3](https://www.youtube.com/watch?v=kPrHqQzCkg0)
 - Lecture [5](https://www.youtube.com/watch?v=qz9bKfOqd0Y)
 - Lecture [7](https://www.youtube.com/watch?v=FYgsztDxSvE)
-- [Logistic Regression in Torch7](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/practicals/practical3.pdf). We are only interested in the practical3.lua file, and the basics of "forward" and "backward". We are not concerned with optimization details. With respect to optimization: we will use what works, and SGD works well often. No need to dive in deep with AdaGrad, AdaMax, etc.
+- [Logistic Regression in Torch7](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/practicals/practical3.pdf). We are only interested in the practical3.lua file, and the basics such as forward/backward, feval functions, creating a model, etc. We are not concerned with optimization details. With respect to optimization: we will use what works, and SGD works well often. No need to dive in deep with AdaGrad, AdaMax, etc. Just know that smart people work hard to find good optimization techniques.
