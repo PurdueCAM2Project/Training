@@ -7,6 +7,8 @@ The estimated work-load for this week is 5 hours. We will be programming Linear 
 - [Andrew Ng at Coursera](https://www.coursera.org/learn/machine-learning/home/welcome)
 - [Nando de Freitas at Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 
+If you are stuck on any of the material, please email me at gauenk@purdue.edu with your questions!
+
 ## Tasks
 
 - Complete all assignments in the video summary

@@ -4,6 +4,10 @@
 
 This week will cover logistic regression, model selection, and an introduction into neural networks. We will also learn to "grab" data using the "archiver.py" file.
 
+Please email me when you start this week (gauenk@purdue.edu). I need to give you the 100 camera ids and a link to upload your images to the drive. Thank you.
+
+If you are stuck on any of the material, please email me at gauenk@purdue.edu with your questions!
+
 ## Tasks
 
 - Selected video lectures
@@ -22,11 +26,11 @@ Answer the following questions:
 
 ## To Submit
 
-- Answers to questions
-- Screenshot of complete quizzes from Coursera
-- Upload 500 images into the google drive
-- Logisitc Regression for MNIST data in Torch7
-- Logisitc Regression for MNIST data in Caffe [some help here](http://caffe.berkeleyvision.org/tutorial/net_layer_blob.html)
+- Answers to questions.
+- Screenshot of complete quizzes from Coursera.
+- Upload 500 images into the google drive.
+- Logisitc Regression for MNIST data in Torch7.
+- Logisitc Regression for MNIST data in Caffe. [some help here](http://caffe.berkeleyvision.org/tutorial/net_layer_blob.html)
 
 # Video Summary 
 

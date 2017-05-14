@@ -13,6 +13,8 @@ For FRCNN I will provide you a set of weights trained on COCO, PASCAL VOC, but f
 
 For SSD, the weights are made available at the github page. [I've linked the ILSVRC trainval1 weights here](https://drive.google.com/open?id=0BzKzrI_SkD1_a2NKQ2d1d043VXM) :smile:
 
+If you are stuck on any of the material, please email me at gauenk@purdue.edu with your questions!
+
 ## Tasks
 
 1. Get training started for your model. No need to converge. Please send me a screen-shot of the model training.

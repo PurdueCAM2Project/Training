@@ -4,6 +4,8 @@
 
 This week will cover neural networks, convolutional neural networks, and labeling images.
 
+If you are stuck on any of the material, please email me at gauenk@purdue.edu with your questions!
+
 ## Tasks
 
 - Install [labelImg](https://github.com/tzutalin/labelImg)
