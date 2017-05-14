@@ -35,7 +35,6 @@ It was successful since there is no error :D
 >>> 
 ```
 
-
 # Video Summary 
 
 ## Andrew Ng, Coursera
