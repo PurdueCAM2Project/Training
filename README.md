@@ -32,6 +32,7 @@ Contribution to the CAM2 group relies heavily on the use of Python. There are ma
 [Django](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Introduction) and [Heroku](https://www.heroku.com/) are both vital tools to the Camera Database team and the CAM2 UI team. Everyone who wants to contribute to the CAM2 project should have knowledge of developing with these tools. To get started there are [3 assignments](https://github.com/PurdueCAM2Project/Training/wiki/Django-and-Heroku-Assignment) you must complete.
 
 ### Introduction to Machine Learning
+
 To get a basic understading of what the CAM2 Image Team does. Please answer and submit the following questions:
 
 1. What is a training and testing data-set?
@@ -39,3 +40,10 @@ To get a basic understading of what the CAM2 Image Team does. Please answer and 
 3. What is overfitting and how does it relate to model complexity? 
 4. What is cross-validation?
 5. List 3 methods that performed well on ImageNet last year. Don't say "Ensemble A", but rather give the actual deep learning model used. If you are unsure, google your answer and there will be a pdf of the paper on the topic.
+
+### Introduction to Beautiful Soup and Selenium
+
+The CAM2 Database has thousands of cameras. These cameras were not added manually instead web parsing tools such as [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) and [Selenium](http://www.seleniumhq.org/) were used to gather the data from various camera websites around the world. [This](https://drive.google.com/open?id=0B3Blc1_VMKTpUHlEdFFEb0pLaUE) paper explains this process in more detail as well as information about how metadata about the cameras is collected. The final step in completing the introductory training for the CAM2 Purdue Team is to complete the two web parsing assignments below.
+
+- Compleate and submit [Parsing Tutorial 1](https://github.com/PurdueCAM2Project/Training/wiki/Parsing-Tutorial-1) (JSon and BeautifulSoup4)
+- Compleate and submit [Parsing Tutorial 2]() (Selenium)
