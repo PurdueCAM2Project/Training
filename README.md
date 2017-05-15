@@ -8,15 +8,17 @@ and understand the differences between "student thinking" and "researcher thinki
 
 **Set up development environment**
 
-You should have a Linux computer for this project. If your computer does not run Linux and it has at least 8GB memory, 
-you may use Virtualbox or VMware to create a virtual Linux computer. Even if you have a Linux computer, you should 
-consider to have a virtual Linux so that everything is contained in the virtual Linux. This allows you to change settings
-and install new software packages without affecting your native Linux.
+You should having a Linux computer for this project. If your computer does not run Linux and it has at least 8GB memory, 
+you may use [Virtualbox](https://www.virtualbox.org/wiki/Downloads) or 
+[VMware](http://www.vmware.com/products/player/playerpro-evaluation.html)to create a virtual Linux computer 
+[Tutorial](VM-Setup). Even if you have a Linux computer, you should consider running a virtual Linux installation. This allows
+you to change settings and install new software packages without affecting your native Linux.
 
 
 **Learn github**
 
-Your contributions to the project will be mostly recorded by github. Please watch [training video](https://www.youtube.com/playlist?list=PL_DUEaCnbkZCI8IMXYVhYGupSHjPVBY1i).
+Your contributions to the project will be mostly recorded by github. Please watch [training video]
+(https://www.youtube.com/playlist?list=PL_DUEaCnbkZCI8IMXYVhYGupSHjPVBY1i)..
 
 **Understand the Purpose of the Project**
 
