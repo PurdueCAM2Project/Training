@@ -11,7 +11,7 @@ and understand the differences between "student thinking" and "researcher thinki
 You should having a Linux computer for this project. If your computer does not run Linux and it has at least 8GB memory, 
 you may use [Virtualbox](https://www.virtualbox.org/wiki/Downloads) or 
 [VMware](http://www.vmware.com/products/player/playerpro-evaluation.html) to create a virtual Linux computer 
-[Setting up Your VM](VM-Setup). Even if you have a Linux computer, you should consider running a virtual Linux installation. This allows
+[Setting up Your VM](https://github.com/PurdueCAM2Project/Training/wiki/Setting-Up-a-Ubuntu-VM). Even if you have a Linux computer, you should consider running a virtual Linux installation. This allows
 you to change settings and install new software packages without affecting your native Linux.
 
 
