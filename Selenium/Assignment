@@ -1,0 +1,45 @@
+What is Selenium？
+
+Selenium Python bindings provides a simple API to write functional/acceptance tests using Selenium WebDriver. 
+Through Selenium Python API you can access all functionalities of Selenium WebDriver in an intuitive way.
+Selenium Python bindings provide a convenient API to access Selenium WebDrivers like Firefox, IE, Chrome, Remote etc. 
+The current supported Python versions are 2.7, 3.5 and above.
+
+Why do we need to use selenium?
+
+CAM2 is a project which relies on the network cameras. In order to get images from them, 
+we need to find cameras and add them into our database. The information we need is the country, 
+city and GPS information. We are dealing with thousands of cameras and of course we can get 
+these information manually but obviously it is not an efficient way. With Selenium, we can 
+easily store these information into a file. It works on almost every website and you can extract 
+any information from the website easily.
+
+
+How to install selenium?
+
+`pip install selenium`
+
+Getting started
+
+Checkout http://selenium-python.readthedocs.io/getting-started.html
+
+
+Selenium problem:
+
+1. Open this link, you will see a live video stream at Times Square. 
+link: http://www.earthcam.com/usa/newyork/timessquare/?cam=tsrobo1
+
+2. Scroll down and you can find a map indicates the location of this camera.
+
+
+3. Right click on the map and select ‘inspect element’
+
+
+4. You will find the GPS information of this camera in the red box area.
+
+
+Assignment:
+
+a) Read the Selenium wiki page first.
+b) Use Selenium to find this GPS information and store it into an external file called GPS_info.txt
+
