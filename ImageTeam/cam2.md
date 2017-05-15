@@ -13,6 +13,7 @@ Answer the following questions:
 2. What is overfitting and how does it relate to model complexity? 
 3. What is cross-validation?
 4. List 3 methods that performed well on ImageNet last year. Don't say "Ensemble A", but rather give the actual deep learning model used. If you are unsure, google your answer and there will be a pdf of the paper on the topic.
+5. Please read [this article](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
 
 ## To Submit:
 - Answers to questions
