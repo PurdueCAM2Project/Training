@@ -17,8 +17,7 @@ you to change settings and install new software packages without affecting your 
 
 **Learn github**
 
-Your contributions to the project will be mostly recorded by github. Please watch [training video]
-(https://www.youtube.com/playlist?list=PL_DUEaCnbkZCI8IMXYVhYGupSHjPVBY1i)..
+Your contributions to the project will be mostly recorded by github. Please watch [training video](https://www.youtube.com/playlist?list=PL_DUEaCnbkZCI8IMXYVhYGupSHjPVBY1i).
 
 **Understand the Purpose of the Project**
 
