@@ -46,4 +46,4 @@ To get a basic understading of what the CAM2 Image Team does. Please answer and 
 The CAM2 Database has thousands of cameras. These cameras were not added manually instead web parsing tools such as [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) and [Selenium](http://www.seleniumhq.org/) were used to gather the data from various camera websites around the world. [This](https://drive.google.com/open?id=0B3Blc1_VMKTpUHlEdFFEb0pLaUE) paper explains this process in more detail as well as information about how metadata about the cameras is collected. The final step in completing the introductory training for the CAM2 Purdue Team is to complete the two web parsing assignments below.
 
 - Compleate and submit [Parsing Tutorial 1](https://github.com/PurdueCAM2Project/Training/wiki/Parsing-Tutorial-1) (JSon and BeautifulSoup4)
-- Compleate and submit [Parsing Tutorial 2]() (Selenium)
+- Compleate and submit [Parsing Tutorial 2](https://github.com/PurdueCAM2Project/Training/wiki/Selenium-Assignment) (Selenium)
