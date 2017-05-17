@@ -29,7 +29,7 @@ Contribution to the CAM2 group relies heavily on the use of Python. There are ma
 
 ### Learning Django and Heroku
 
-[Django](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Introduction) and [Heroku](https://www.heroku.com/) are both vital tools to the Camera Database team and the CAM2 UI team. Everyone who wants to contribute to the CAM2 project should have knowledge of developing with these tools. To get started there are [3 assignments](https://github.com/PurdueCAM2Project/Training/wiki/Django-and-Heroku-Assignment) you must complete.
+[Django](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Introduction) and [Heroku](https://www.heroku.com/) are both vital tools to the Camera Database team and the CAM2 UI team. Everyone who wants to contribute to the CAM2 project should have knowledge of developing with these tools. To get started there are [3 assignments](https://github.com/PurdueCAM2Project/Training/wiki/Django-and-Heroku-Assignment) you must complete. Joseph also created an introduction to Heroku video you can watch [here](https://drive.google.com/open?id=0B3Blc1_VMKTpSno0VmljdDAtR00). The UI team currently uses [Travis CI (Continuous Integration)](https://travis-ci.org/) to deploy the website. A video demo for this is also avalable [here](https://drive.google.com/open?id=0B3Blc1_VMKTpREdDaGFTMWlWMmc).
 
 ### Introduction to Machine Learning
 
