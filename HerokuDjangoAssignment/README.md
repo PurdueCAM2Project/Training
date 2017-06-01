@@ -8,3 +8,5 @@ Basic Heroku Django App that does the following:
 - shows a Google map with a marked location
 
 Read my documentation file to see how to fix issues that are common and how I approached creating the app from scratch
+
+After you finish this training, check out this [Django Tutorial](https://tutorial.djangogirls.org/en/).
