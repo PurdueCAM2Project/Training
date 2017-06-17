@@ -27,6 +27,10 @@ Your contributions to the project will be mostly recorded by github. Please watc
 
 Contribution to the CAM2 group relies heavily on the use of Python. There are many resources avalable to learn python, from reading the [Python Wiki](https://wiki.python.org/moin/BeginnersGuide) to the [Google Develuper Guide](https://developers.google.com/edu/python/introduction). You can learn the syntax by signing up to [Code Acadamy](https://www.codecademy.com/learn/python). The best way to learn however is to simply try to start coding so follow the tutorials in this training repository and you will begin to get the feel of it in no time.
 
+### Learn System Core
+
+Please clone [System Core](https://github.com/PurdueCAM2Project/SystemCore) and understand how different pieces fit together. This repository is greatly simplified from the real system. This core does not include anything about cloud computing.
+
 ### Learning Django and Heroku
 
 [Django](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Introduction) and [Heroku](https://www.heroku.com/) are both vital tools to the Camera Database team and the CAM2 UI team. Everyone who wants to contribute to the CAM2 project should have knowledge of developing with these tools. To get started there are [3 assignments](https://github.com/PurdueCAM2Project/Training/wiki/Django-and-Heroku-Assignment) you must complete. Joseph also created an introduction to Heroku video you can watch [here](https://drive.google.com/open?id=0B3Blc1_VMKTpSno0VmljdDAtR00). The UI team currently uses [Travis CI (Continuous Integration)](https://travis-ci.org/) to deploy the website. A video demo for this is also avalable [here](https://drive.google.com/open?id=0B3Blc1_VMKTpREdDaGFTMWlWMmc).
