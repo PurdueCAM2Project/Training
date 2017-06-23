@@ -19,6 +19,10 @@ you may use [Virtualbox](https://www.virtualbox.org/wiki/Downloads) or
 should consider running a virtual Linux installation. This allows you to change settings and install new software packages without
 affecting your native Linux.
 
+IMPORTANT: The following setting cannot be easily changed later:
+
+While creating the virtual machine, assign a harddisk space of atleast 30-40GB(or higher depending on your machine's config) on the virtual linux when prompted. If you're on the database team, consult your teamlead/Ryan, as you might usually need more storage.
+
 ### Learn GitHub
 
 Your contributions to the project will be mostly recorded by github. Please watch [training video](https://www.youtube.com/playlist?list=PL_DUEaCnbkZCI8IMXYVhYGupSHjPVBY1i). For more information read through the [wiki page](https://github.com/PurdueCAM2Project/Training/wiki/%5BGuide%5D-Git-and-GitHub).
